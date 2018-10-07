@@ -12,5 +12,5 @@
 <p>3.Remove the schema attribute on the table tag,set the tablename not be '%',generate table one by one</p>
 
 <h4>See also</h4>
-<a>https://blog.csdn.net/fullbug/article/details/52879833</a>
+<a>https://blog.csdn.net/fullbug/article/details/52879833</a></br>
 <a>https://blog.csdn.net/u012283609/article/details/68288722</a>
